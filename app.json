@@ -1,4 +1,6 @@
 {
   "name": "trashApp",
-  "displayName": "trashApp"
+  "displayName": "trashApp",
+  "expo": { "sdkVersion": "32.0.0", "appKey": "trashApp" }
+ 
 }

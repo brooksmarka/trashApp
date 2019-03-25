@@ -13,6 +13,10 @@ export default class Camera extends React.Component {
         }
     }
 
+    takePicture = async function(){
+        
+    }
+
     render(){
         return(
             <RNCamera ref={ref => {this.camera = ref;}} style={styles.preview}>
